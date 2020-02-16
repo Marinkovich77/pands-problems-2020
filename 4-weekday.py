@@ -6,7 +6,7 @@
 # We are importing datetime module
 import datetime
 
-# We are creatingdefining variable `now` and conferring
+# We are defining variable `now` and conferring
 # it the value datetime.datetime.now() 
 # That variable is a instance of a class 
 # or sort of a dictionary. It has the following
